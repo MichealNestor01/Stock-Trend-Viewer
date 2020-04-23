@@ -1,4 +1,4 @@
-# StockTrendViewer
+# StockTrendViewer (31/04/2020)
 This is a program which uses a database of stocknames and urls to their historical prices page on yahoo finance, to find data about these stocks and display it to a user
 
 I coded this program to:
